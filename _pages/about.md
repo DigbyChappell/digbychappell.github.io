@@ -10,7 +10,7 @@ redirect_from:
 
 Kelin Li is a second year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas) and [Prof. Rafael A. Calvo](https://www.imperial.ac.uk/people/r.calvo). Currently, he is working in [Robotic manipulation: Engineering, Design, and Science Lab (REDS Lab)](https://www.imperial.ac.uk/reds-lab) led by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas). Prior to joining Imperial College, he received a M.S. degree in Mechanical Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in 2019, and a B.S. degree in Mechanical Design, Manufacturing and Automation at [Hunan University](https://www.hnu.edu.cn/), Changsha, China, in 2016.
 
-His research interests mainly include **Autonomous Navigation** and **(Safe) Reinforcement Learning** in Cyber-physical Systems. Particularly, he is interested in the theories and algorithms that empower quadrotors to see and think more intelligent. In addition to scientific research, he loves classic music and sports!
+His research interests mainly include **Visual Grasping** and **Imitation Learning** in Dexterous Robotic Hands. Particularly, he is interested in the implementation of VR and learning algorithms that empower dexterous robotic hands to see and think more intelligent. In addition to scientific research, he loves musical, history and football!
 
 Please feel free to contact should you be interested in his research.
 
@@ -20,8 +20,7 @@ News
 ===  
 * October 11, 2022, I will give an oral presentation on IROS 2022 in person, in Kyoto. Hopefully see you all!
 * September 15, 2022, I submitted my work “Immersive Demonstrations are the Key to Imitation Learning” to ICRA 2023 (London, UK).
-* May 5, 2022, our paper “[EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands](https://arxiv.org/abs/2206.15159)” is accepted to IEEE Robotics and Automation Letters, it is also accepted to be presented in IROS 2022 (Kyoto, Japan).
-* May 26, 2022, I will give an oral presentation on ICRA 2022 in person, in Philadelphia. Hopefully see you all!
+* May 5, 2022, our paper “[EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands](https://arxiv.org/abs/2206.15159)” is accepted to IEEE Robotics and Automation Letters, it is also accepted to be presented on IROS 2022 (Kyoto, Japan).
 * October 4, 2021, I just passed my Early Stage Accessment (ESA) :) 
 * Feburary 9, 2021 I submitted my Reseach Proposal!
 * December 10, 2020, I am very excited to enroll in Dyson School at Imperial College as a new PhD student. An exciting journey has begun!
