@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Yanran Wang is a second year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. David Boyle](https://www.imperial.ac.uk/people/david.boyle) and [Prof. Robert Shorten](https://robertshorten.com/). Currently, he is working in [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/systems-algorithms-design-lab/) led by [Dr. Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi). Prior to joining Imperial College, he received a M.S. degree in Information and Control at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China, in 2020, and a B.S. degree in Automation at [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2017.
+Kelin Li is a second year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas) and [Prof. Rafael A. Calvo](https://www.imperial.ac.uk/people/r.calvo). Currently, he is working in [Robotic manipulation: Engineering, Design, and Science Lab (REDS Lab)](https://www.imperial.ac.uk/reds-lab) led by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas). Prior to joining Imperial College, he received a M.S. degree in Mechanical Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in 2019, and a B.S. degree in Mechanical Design, Manufacturing and Automation at [Hunan University](https://www.hnu.edu.cn/), Changsha, China, in 2016.
 
 His research interests mainly include **Autonomous Navigation** and **(Safe) Reinforcement Learning** in Cyber-physical Systems. Particularly, he is interested in the theories and algorithms that empower quadrotors to see and think more intelligent. In addition to scientific research, he loves classic music and sports!
 
 Please feel free to contact should you be interested in his research.
 
-**Reminder** [[Calendar](https://aideadlin.es/?sub=ML,RO)] 
+**Reminder** [[Calendar](http://ras.papercept.net/conferences/scripts/start.pl)] 
 
 News
 ===  
-* September 10, 2022, our paper “[QuaDUE-CCM: Interpretable Distributional Reinforcement Learning using Uncertain Contraction Metrics for Precise Quadrotor Trajectory Tracking](https://arxiv.org/abs/2207.07789)” is accepted to CoRL 2022.
-* July 15, 2022, our paper “[Interpretable Stochastic Model Predictive Control using Distributional Reinforced Estimation for Quadrotor Tracking Systems](https://arxiv.org/abs/2205.07150)” is accepted to CDC 2022.
+* October 11, 2022, I will give an oral presentation on IROS 2022 in person, in Kyoto. Hopefully see you all!
+* September 15, 2022, I submitted my work “Immersive Demonstrations are the Key to Imitation Learning” to ICRA 2023 (London, UK).
+* May 5, 2022, our paper “[EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands](https://arxiv.org/abs/2206.15159)” is accepted to IEEE Robotics and Automation Letters, it is also accepted to be presented in IROS 2022 (Kyoto, Japan).
 * May 26, 2022, I will give an oral presentation on ICRA 2022 in person, in Philadelphia. Hopefully see you all!
-* January 31, 2022, our paper “[KinoJGM: A framework for efficient and accurate quadrotor trajectory generation and tracking in dynamic environments](https://arxiv.org/abs/2202.12419)” is accepted to ICRA 2022 (Philadelphia, United States)!
-* November 4, 2021, I just pass my Early Stage Accessment (ESA) :) 
-* May 1, 2021, I am very excited to enroll in Dyson School at Imperial College as a new PhD student. An exciting journey has begun!
-* April 1, 2020, I will be a PhD student in Imperial College London.
-* March 31, 2020, I graduate with a master's degree (with honor) in Shanghai Jiao Tong University.
+* October 4, 2021, I just passed my Early Stage Accessment (ESA) :) 
+* Feburary 9, 2021 I submitted my Reseach Proposal!
+* December 10, 2020, I am very excited to enroll in Dyson School at Imperial College as a new PhD student. An exciting journey has begun!
+* April 13, 2020, I will be a PhD student in Imperial College London.
+* November 3, 2019, our paper “[On-line self tuning of contouring control for high accuracy robot manipulators under various operations](https://link.springer.com/article/10.1007/s12555-019-0110-9)” is accepted to International Journal of Control, Automation and Systems.
+* June 10, 2019, I graduate with a master's degree (with honor) in Huazhong University of Science and Technology.
 
 
-[[go top](https://Alex-yanranwang.github.io/)]  
+[[go top](https://colin-kelinli.github.io/)]  
