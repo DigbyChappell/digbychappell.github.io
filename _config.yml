@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mr. Kelin Li"
 title_separator          : "-"
-name                     : &name "Kelin Li"
+name                     : &name "Kelin (Colin) Li"
 description              : &description "personal description"
 url                      : https://colin-kelinli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
