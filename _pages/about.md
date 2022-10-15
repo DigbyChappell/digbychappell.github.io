@@ -10,7 +10,7 @@ redirect_from:
 
 Kelin Li is a second year Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), where he is co-supervised by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas) and [Prof. Rafael A. Calvo](https://www.imperial.ac.uk/people/r.calvo). Currently, he is working in [Robotic manipulation: Engineering, Design, and Science Lab (REDS Lab)](https://www.imperial.ac.uk/reds-lab) led by [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas). Prior to joining Imperial College, he received a M.S. degree in Mechanical Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Wuhan, China, in 2019, and a B.S. degree in Mechanical Design, Manufacturing and Automation at [Hunan University](https://www.hnu.edu.cn/), Changsha, China, in 2016.
 
-His research interests mainly include **Visual Grasping** and **Imitation Learning** in Dexterous Robotic Hands. Particularly, he is interested in the implementation of VR and learning algorithms that empower dexterous robotic hands to see and think more intelligent. In addition to scientific research, he loves musical, history and football!
+His research interests mainly include **Visual Grasping** and **Imitation Learning** in Dexterous Robotic Hands. Particularly, he is interested in the implementation of VR and learning algorithms that empower dexterous robotic hands to see and think more intelligent. In addition to scientific research, he loves travel, musical and sports, especially football!
 
 Please feel free to contact should you be interested in his research.
 
