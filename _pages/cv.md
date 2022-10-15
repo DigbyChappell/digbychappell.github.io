@@ -23,26 +23,22 @@ Education
 
 Awards and Honors
 ======  
-* *Outstanding Graduate Student*, 2020-3.
-* *National Scholarship* for graduate student, 2018-10.
-* *First-class Academic Scholarship* for graduate student of Shanghai Jiao Tong University, 2017-9.
-* *Exam-exempted postgraduate student* recommended to Shanghai Jiao Tong University, 2017-6.
-* The key member of last eight teams in [RoboCup](https://www.robocup.org/) of World (In Leipzig, Germany), 2016-6.
-* The first prize of [Mathematical Contest in Modeling (MCM)](https://www.comap.com/undergraduate/contests/), 2015-10.
-* *President Scholarship of Southeast University*, 2015.
-* *Merit Student of Southeast University*, 2015.
+* *Outstanding Graduate Student* of Huazhong University of Science and Technology, 2019-6.
+* *Best Paper Award* at [ICA-SYMP 2019](https://site.ieee.org/thailand-css/ica-symp-2019/), 2019-1.
+* *Merit Graduate Student* of Huazhong University of Science and Technology, 2018-10.
+* *First Class Scholarship* of Huazhong University of Science and Technology, 2016-10.
+* *Exam-exempted postgraduate student* recommended to Huazhong University of Science and Technology, 2016-9.
+* *First Prize* in [College Students Innovation Training](http://jwc.hnu.edu.cn/cxcy/SITjh.htm), 2016-6.
+* *Excellence Award* in [Lunar Rover Creative Design Competition](http://www.cose.edu.cn/info/1037/1255.htm#), 2015-10
+* *First Class Scholarship* of Hunan University, 2014-10.
 
 Work or Intership experience
 ======
 * 2020: Research Assistant
-  * [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China.
+  * [MiLAB, WestLake University](https://en.westlake.edu.cn/), Hangzhou, China.
 
-* 2019: Machine Learning Algorithm Intern
-  * Internship in [Ant Financial Services Group (Alipay)](https://www.antgroup.com/en), Shanghai, China.
-  * Deep Reinforcement Learning development for recommender systems.
+* 2019: Mathematics and Machine Learning Intern
+  * Work in [New Channel Group](https://wh.xhd.cn/), Wuhan, China.
+  * A-Level mathematics and machine learning algorithms teaching.
 
-* 2019: Deep Learning Software Intern
-  * Intership in Intel Asia-Pacific R&D Center, Shanghai, China.
-  * A deep learning framework (BigDL) development and test preprocessing.
-
-[[go top](https://Alex-yanranwang.github.io/cv/)]  
+[[go top](https://colin-kelinli.github.io/cv/)]  
