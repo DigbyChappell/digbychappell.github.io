@@ -14,7 +14,7 @@ redirect_from:
 * Scotland:
   * Edinburgh Castle.
   * 
-    <img src="https://colin-kelinli.github.io//images/edinburgh0.jpg" width="80%" height="80%">
+    <img src="https://colin-kelinli.github.io//images/edinburgh0.jpg" width="80%" height="65%">
   * Silver Beach near Malaig.
   * 
     <img src="https://colin-kelinli.github.io//images/malaig0.jpg" width="80%" height="65%">
