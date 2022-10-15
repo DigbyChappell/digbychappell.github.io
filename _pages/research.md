@@ -21,7 +21,7 @@ Incorporating VR with Imitation Learning
 ======
 * Immersive imitation learning:
   * Tactile and visual sensing for human demonstrators to teach robotics.
-<img src="https://colin-kelinli.github.io//images/imitation0.jpg" width="80%" height="80%">
+<img src="https://colin-kelinli.github.io//images/imitation0.png" width="80%" height="80%">
 ---
 
 More Work will be Posted...
