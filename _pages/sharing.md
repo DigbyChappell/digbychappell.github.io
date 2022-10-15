@@ -13,10 +13,13 @@ redirect_from:
 ======
 * Scotland:
   * Edinburgh Castle.
+  * 
     <img src="https://colin-kelinli.github.io//images/edinburgh0.jpg" width="80%" height="80%">
   * Silver Beach near Malaig.
+  * 
     <img src="https://colin-kelinli.github.io//images/malaig0.jpg" width="80%" height="65%">
   * Hogwarts Express.
+  * 
     <img src="https://colin-kelinli.github.io//images/hogwarts0.jpg" width="80%" height="80%">
 
 2021
