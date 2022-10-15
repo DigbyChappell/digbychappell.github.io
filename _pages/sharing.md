@@ -15,7 +15,7 @@ redirect_from:
   * Edinburgh Castle.
   * 
     <img src="https://colin-kelinli.github.io//images/edinburgh0.jpg" width="80%" height="65%">
-  * Silver Beach near Malaig.
+  * Silversands Beaches near Morar.
   * 
     <img src="https://colin-kelinli.github.io//images/malaig0.jpg" width="80%" height="65%">
   * Hogwarts Express.
