@@ -24,7 +24,7 @@ Education
 Awards and Honors
 ======  
 * *Outstanding Graduate Student* of Huazhong University of Science and Technology, 2019-6.
-* *Best Paper Award* at [ICA-SYMP 2019](https://site.ieee.org/thailand-css/ica-symp-2019/), 2019-1.
+* *Best Application Paper Award* at [ICA-SYMP 2019](https://site.ieee.org/thailand-css/ica-symp-2019/), 2019-1.
 * *Merit Graduate Student* of Huazhong University of Science and Technology, 2018-10.
 * *First Class Scholarship* of Huazhong University of Science and Technology, 2016-10.
 * *Exam-exempted postgraduate student* recommended to Huazhong University of Science and Technology, 2016-9.
