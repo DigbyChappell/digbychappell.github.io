@@ -18,7 +18,7 @@ Please feel free to contact should you be interested in his research.
 
 News
 ===  
-* January 17, 2023, our work “Immersive Demonstrations are the Key to Imitation Learning” has been accepted to be presented on ICRA 2023 (London, UK).
+* January 17, 2023, our work “[Immersive Demonstrations are the Key to Imitation Learning] (https://arxiv.org/abs/2301.09157)” has been accepted to be presented on ICRA 2023 (London, UK).
 * October 11, 2022, I will give an oral presentation on IROS 2022 in person, in Kyoto. Hopefully see you all!
 * May 5, 2022, our paper “[EfficientGrasp: A Unified Data-Efficient Learning to Grasp Method for Multi-Fingered Robot Hands](https://arxiv.org/abs/2206.15159)” is accepted to IEEE Robotics and Automation Letters, it is also accepted to be presented on IROS 2022 (Kyoto, Japan).
 * October 4, 2021, I just passed my Early Stage Accessment (ESA) :) 
