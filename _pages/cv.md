@@ -9,17 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-======
-My full [CV](https://colin-kelinli.github.io/files/Resume_Kelin Li.pdf).
-<!-- Here is my CV [[English Version](https://yrwang501.github.io/files/CV_Yanran.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)]. -->
+For more information, please see my full [CV](https://dchappell2203.github.io/files/CV_Academic.pdf).
 
 Education
 ======
-* 2020.11 - NOW:     Ph.D Student, Imperial College London.
-	Supervisor: [Dr. Nicolas Rojas](https://www.imperial.ac.uk/people/n.rojas) and [Prof. Rafael A. Calvo](https://www.imperial.ac.uk/people/r.calvo)
-* 2016.09 - 2019.06: M.S. in Mechanical Engineering (Mechantronics and Robotics), Huazhong University of Science and Technology.
-	Supervisor: [Prof. Han Ding](http://english.mse.hust.edu.cn/info/1073/1993.htm)
-* 2012.09 - 2016.06: B.S. in Mechanical Design, Manufacturing and Automation, Hunan University.
+<img src="https://dchappell2203.github.io//images/imperial_logo.png" align="left" height="10%"> 2019 - present:     PhD Student, Imperial College London, UK. <br>
+<img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" height="10%"> 2022:     Visiting researcher, University of Leeds, UK.<br>
+<img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" height="10%"> 2015 - 2019:        MEng Engineering, University of Cambridge, UK. <br>
 
 Awards and Honors
 ======  
