@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Mr. Kelin Li"
+locale                   : "en-GB"
+title                    : "Mr. Digby Chappell"
 title_separator          : "-"
-name                     : &name "Kelin (Colin) Li"
+name                     : &name "Digby Chappell"
 description              : &description "personal description"
-url                      : https://colin-kelinli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dchappell2203.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ICLKelinLi/colin-kelinli.github.io"
+repository               : "dchappell2203/dchappell2203.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "Kelin Li"
+    shortname            : "Digby Chappell"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Kelin Li <br> 李科霖"
-  avatar           : "profile2.jpg"
+  avatar           : "Headshot.jpg"
   bio              : "PhD Student"
-  location         : "London, United Kingdom"
   employer         : "Imperial College London"
+  location         : "London, United Kingdom"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_8bq-bwAAAAJ&hl=en"
-  email            : "kl2220@ic.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en"
+  email            : "d.chappell19@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Colin-KelinLi"
+  github           : "dchappell2203"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6505-9201"
+  linkedin         : "https://www.linkedin.com/in/digby-chappell/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4252-8121"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

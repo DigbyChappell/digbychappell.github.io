@@ -12,8 +12,8 @@ I am a Ph.D. student at [Imperial College London](https://www.imperial.ac.uk/), 
 
 Prior to joining Imperial College, I received an MEng degree in Engineering from the [University of Cambridge](https://www.cam.ac.uk/) in 2019, where my final year project investigated <i>wearable muscle activity sensors</i> under the supervision of [Prof. George Malliaras](http://www.eng.cam.ac.uk/profiles/gm603).
 
-His research interests mainly include **Visual Grasping** and **Imitation Learning** in Dexterous Robotic Hands. Particularly, he is interested in the implementation of VR and learning algorithms that empower dexterous robotic hands to see and think more intelligent. In addition to scientific research, he loves travel, musical and sports, especially football!
+My research interests include all things **prosthetics** and **robotics**, particularly **prosthetic hands**. When I'm not in the lab, I'm usually playing badminton or making ice cream.
 
-Please feel free to contact me if you're interested in my research!
+Please feel free to contact me if you're interested in my research (or my icecream)!
 
 [[go top](https://dchappell2203.github.io/)]  
