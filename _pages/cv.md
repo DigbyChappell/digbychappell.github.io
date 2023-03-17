@@ -13,9 +13,23 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<img src="https://dchappell2203.github.io//images/imperial_logo.png" align="left" height="10%"> 2019 - present:     PhD Student, Imperial College London, UK. <br>
-<img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" height="10%"> 2022:     Visiting researcher, University of Leeds, UK.<br>
-<img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" height="10%"> 2015 - 2019:        MEng Engineering, University of Cambridge, UK. <br>
+<table style="width: 100%; border: 0px solid white;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="30%"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
+    <td width="20%">2019 - present:</td>
+    <td width="50%">PhD Student, Imperial College London, UK.</td>
+  </tr>
+  <tr>
+    <td><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" width="100%"></td>
+    <td>2022:</td>
+    <td>Visiting researcher, University of Leeds, UK.</td>
+  </tr>
+  <tr>
+    <td><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" width="100%"></td>
+<td>2015 - 2019:</td>
+    <td>MEng Engineering, University of Cambridge, UK.</td>
+  </tr>
+</table>
 
 Awards and Honors
 ======  
