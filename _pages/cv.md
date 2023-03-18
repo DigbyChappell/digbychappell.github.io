@@ -13,7 +13,7 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<table style="width:"100%"; border:0px;" cellspacing="0" cellpadding="0">
+<table style="width:100%; border:0px;" cellspacing="0" cellpadding="0">
   <tr width="30%" style="border:0px solid white";>
     <td width="30%"; style="border:0px solid white"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
     <td width="10%"; style="border:0px solid white">2019 - present:</td>
