@@ -13,8 +13,8 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<table class="images" width="100%" cellspacing="0" cellpadding="0" style="border:0px solid white; width:100%;">
-  <tr width="30%" style="border:0px solid white";>
+<table class="images" width="100%"  style="border:0px solid white; width:100%;">
+  <tr width="30%">
     <td width="30%"; style="border:0px solid white"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
     <td width="10%"; style="border:0px solid white">2019 - present:</td>
     <td width="50%"; style="border:0px solid white">PhD Student, Imperial College London, UK.</td>
@@ -30,6 +30,7 @@ Education
     <td width="30%" style="border:0px solid white";>MEng Engineering, University of Cambridge, UK.</td>
   </tr>
 </table>
+
 
 Awards and Honors
 ======  
