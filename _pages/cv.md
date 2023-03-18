@@ -13,24 +13,53 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<table class="images" width="80%" style="border:0px solid white; width:80%">
+<table width="100%" style="border:0px solid white; width:100%">
   <tr style="border:0px;">
-    <td width="0%" style="border:0px;"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="150px"></td>
+    <td width="0%" style="border:0px;"><img src="https://dchappell2203.github.io//images/imperial_logo.png" align="right" height="39.5px"></td>
     <td width="0%" style="border:0px;"><nobr>2019 - present:</nobr></td>
-    <td width="0%" style="border:0px;">PhD Student, Imperial College London, UK.</td>
+    <td width="0%" style="border:0px;">**PhD Student**<br>Imperial College London, UK.</td>
   </tr>
   <tr style="border:0px;">
-    <td width="0%" style="border:0px;"><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" width="150px"></td>
+    <td width="0%" style="border:0px;"><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="right" height="39.5px"></td>
     <td width="0%" style="border:0px;"><nobr>2022:</nobr></td>
-    <td width="0%" style="border:0px;">Visiting researcher, University of Leeds, UK.</td>
+    <td width="0%" style="border:0px;">**Visiting Researcher**<br>University of Leeds, UK.</td>
   </tr>
   <tr style="border:0px;">
-    <td width="0%" style="border:0px;"><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" width="150px"></td>
+    <td width="175" style="border:0px;"><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="right" height="39.5px"></td>
     <td width="0%" style="border:0px;"><nobr>2015 - 2019:</nobr></td>
-    <td width="0%" style="border:0px;">MEng Engineering, University of Cambridge, UK.</td>
+    <td width="0%" style="border:0px;">**MEng Engineering**<br>University of Cambridge, UK.</td>
   </tr>
 </table>
 
+Employment
+======
+<table class="images" width="100%" style="border:0px solid white; width:100%">
+  <tr style="border:0px;">
+    <td width="175" style="border:0px;"><img src="https://dchappell2203.github.io//images/imperial_logo.png" align="right" height="39.5px"></td>
+    <td width="0%" style="border:0px;"><nobr>2019 - present:</nobr></td>
+    <td width="0%" style="border:0px;">**Graduate Teaching Assistant**<br>Imperial College London, UK</td>
+  </tr>
+  <tr style="border:0px;">
+    <td width="150" style="border:0px;"><img src="https://dchappell2203.github.io//images/nagwa_logo.png" align="right" height="39.5px"></td>
+    <td width="0%" style="border:0px;"><nobr>2022:</nobr></td>
+    <td width="0%" style="border:0px;">**Physics Video Developer**<br>Nagwa, UK</td>
+  </tr>
+  <tr style="border:0px;">
+    <td width="150" style="border:0px;"><img src="https://dchappell2203.github.io//images/fluidic_analytics_logo.png" align="right" height="39.5px"></td>
+    <td width="0%" style="border:0px;"><nobr>2022:</nobr></td>
+    <td width="0%" style="border:0px;">**Graduate Software Engineering Intern**<br>Fluidic Analytics, UK</td>
+  </tr>
+  <tr style="border:0px;">
+    <td width="150" style="border:0px;"><img src="https://dchappell2203.github.io//images/pa_logo.png" align="right" height="39.5px"></td>
+    <td width="0%" style="border:0px;"><nobr>2022:</nobr></td>
+    <td width="0%" style="border:0px;">**Data Science Intern**<br>PA Consulting, UK</td>
+  </tr>
+  <tr style="border:0px;">
+    <td width="150" style="border:0px;"><img src="https://dchappell2203.github.io//images/ttp_logo.png" align="right" height="39.5px"></td>
+    <td width="0%" style="border:0px;"><nobr>2022:</nobr></td>
+    <td width="0%" style="border:0px;">**Engineering Intern**<br>SPT (formerly TTP) Labtech, UK</td>
+  </tr>
+</table>
 
 Awards and Honors
 ======  
