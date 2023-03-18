@@ -13,21 +13,21 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<table style="width: 100%; border: 0px solid white;" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="30%"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
-    <td width="20%">2019 - present:</td>
-    <td width="50%">PhD Student, Imperial College London, UK.</td>
+<table width="100%"; style="border:0px solid white"; cellspacing="0" cellpadding="0">
+  <tr width="30%" style="border:0px solid white";>
+    <td width="30%"; style="border:0px solid white"><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
+    <td width="10%"; style="border:0px solid white">2019 - present:</td>
+    <td width="50%"; style="border:0px solid white">PhD Student, Imperial College London, UK.</td>
   </tr>
-  <tr>
-    <td><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" width="100%"></td>
-    <td>2022:</td>
-    <td>Visiting researcher, University of Leeds, UK.</td>
+  <tr width="30%" style="border:0px solid white";>
+    <td width="30%" style="border:0px solid white";><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" width="100%" style="border:0px";></td>
+    <td width="30%" style="border:0px solid white";>2022:</td>
+    <td width="30%" style="border:0px solid white";>Visiting researcher, University of Leeds, UK.</td>
   </tr>
-  <tr>
-    <td><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" width="100%"></td>
-<td>2015 - 2019:</td>
-    <td>MEng Engineering, University of Cambridge, UK.</td>
+  <tr width="30%" style="border:0px solid white";>
+    <td width="30%" style="border:0px solid white";><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" width="100%" style="border:0px";></td>
+    <td width="30%" style="border:0px solid white";>2015 - 2019:</td>
+    <td width="30%" style="border:0px solid white";>MEng Engineering, University of Cambridge, UK.</td>
   </tr>
 </table>
 
