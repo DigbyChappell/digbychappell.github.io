@@ -13,18 +13,18 @@ For more information, please see my full [CV](https://dchappell2203.github.io/fi
 
 Education
 ======
-<table class="images" width="100%" style="border:0px solid white; width:100%;">
-  <tr style="border:0px";>
+<table class="images" width="100%" style="border:0px solid white;">
+  <tr style="border:0px;">
     <td width="30%"; style="border:0px";><img src="https://dchappell2203.github.io//images/imperial_logo.png" width="100%"></td>
     <td width="10%"; style="border:0px";>2019 - present:</td>
     <td width="50%"; style="border:0px";>PhD Student, Imperial College London, UK.</td>
   </tr>
-  <tr style="border:0px";>
+  <tr style="border:0px;">
     <td width="30%" style="border:0px";><img src="https://dchappell2203.github.io//images/leeds_logo.jpg" align="left" width="100%" style="border:0px";></td>
     <td width="30%" style="border:0px";>2022:</td>
     <td width="30%" style="border:0px";>Visiting researcher, University of Leeds, UK.</td>
   </tr>
-  <tr style="border:0px";>
+  <tr style="border:0px;">
     <td width="30%" style="border:0px";><img src="https://dchappell2203.github.io//images/cambridge_logo.jpg" align="left" width="100%" style="border:0px";></td>
     <td width="30%" style="border:0px";>2015 - 2019:</td>
     <td width="30%" style="border:0px";>MEng Engineering, University of Cambridge, UK.</td>
