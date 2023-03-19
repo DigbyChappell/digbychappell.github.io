@@ -13,13 +13,14 @@ redirect_from:
 
 My research focus is on improving prosthetic hand control from a holistic perspective, looking at user training, sensory feedback, and developing myoelectric control algorithms.
 
-<strong><div style="font-size: 20px;">Myoelectric Control</div></strong>
 <details>
-  <summary></summary>
+  <summary>### Myoelectric Control</summary>
 
-  ### Embedded Pattern Recognition Control
-  
-  ### 
+  #### Embedded Pattern Recognition Control
+  <br>
+
+  #### Hehe
+  <br>
 
 </details>
 <br>

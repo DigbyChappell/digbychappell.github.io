@@ -10,9 +10,9 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 
 ### 2023
 [Immersive Demonstrations are the Key to Imitation Learning](https://arxiv.org/abs/2301.09157)
-<br>Kelin Li*, **Digby Chappell***, and Nicolas Rojas.<br>
+<br>Kelin Li\*, **Digby Chappell**\*, and Nicolas Rojas.<br>
 *IEEE International Conference on Robotics and Automation (ICRA) (to appear).* **2023**.<br>
-*equal contribution | [Paper](https://arxiv.org/pdf/2301.09157)
+\*equal contribution | [Paper](https://arxiv.org/pdf/2301.09157)
 
 ### 2022
 [Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance](https://ieeexplore.ieee.org/abstract/document/9896480/) (Oral Presentation)
