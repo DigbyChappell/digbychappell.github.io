@@ -9,23 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Visual Grasping
-======
-* EfficientGrasp:
-  * Deep learning framework for multifingered grippers.
-<img src="https://colin-kelinli.github.io//images/efficientgrasp0.png" width="80%" height="80%">
-  * Manuscript can be found [here](https://arxiv.org/abs/2206.15159?context=cs)
-  * Video can be found [here](https://www.youtube.com/watch?v=3h__r2lIFSY)
+## Prosthetic Hand Control
 
-Incorporating VR with Imitation Learning
-======
-* Immersive imitation learning:
-  * Tactile and visual sensing for human demonstrators to teach robotics.
-<img src="https://colin-kelinli.github.io//images/imitation0.png" width="80%" height="80%">
----
+My research focus is on improving prosthetic hand control from a holistic perspective, looking at user training, sensory feedback, and developing myoelectric control algorithms.
 
-More Work will be Posted...
-======
-<img src="https://colin-kelinli.github.io//images/underconstruction0.png" width="80%" height="80%">
+<strong><div style="font-size: 20px;">Myoelectric Control</div></strong>
+<details>
+  <summary></summary>
 
-[[go top](https://colin-kelinli.github.io/research/)]  
+  ### Embedded Pattern Recognition Control
+  
+  ### 
+
+</details>
+<br>
+<details>
+  <summary><strong>Sensory Feedback</strong></summary>
+
+</details>
+<br>
+<details>
+  <summary><strong>User Training</strong></summary>
+
+</details>
+<br>
+
+[[go top](https://dchappell2203.github.io/research/)]  

@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Selected Publications
+You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
+
 ### 2023
 [Immersive Demonstrations are the Key to Imitation Learning](https://arxiv.org/abs/2301.09157)
-<br>Kelin Li, **Digby Chappell**, and Nicolas Rojas.<br>
+<br>Kelin Li*, **Digby Chappell***, and Nicolas Rojas.<br>
 *IEEE International Conference on Robotics and Automation (ICRA) (to appear).* **2023**.<br>
-[Paper](https://arxiv.org/pdf/2301.09157)
+*equal contribution | [Paper](https://arxiv.org/pdf/2301.09157)
 
 ### 2022
 [Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance](https://ieeexplore.ieee.org/abstract/document/9896480/) (Oral Presentation)
@@ -40,7 +42,7 @@ author_profile: true
 [Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/93888/2/Cursi_ICAR-2021_accepted.pdf)
 
 [Hierarchical decomposed-objective model predictive control for autonomous casualty extraction](https://ieeexplore.ieee.org/abstract/document/9369351/)
-<br>Roni Permana Saputra, Nemanja Rakicevic, Digby Chappell, Ke Wang, Petar Kormushev.<br>
+<br>Roni Permana Saputra, Nemanja Rakicevic, **Digby Chappell**, Ke Wang, Petar Kormushev.<br>
 *IEEE Access.* **2021**.<br>
 [Paper](https://ieeexplore.ieee.org/iel7/6287639/9312710/09369351.pdf) | [Video](https://www.youtube.com/watch?v=6M_bMNQ1rII) | [Page](https://sites.google.com/view/hido-mpc-resqbot)
 
