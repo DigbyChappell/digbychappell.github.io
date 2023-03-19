@@ -17,7 +17,7 @@ My research focus is on improving prosthetic hand control from a holistic perspe
   <summary><strong>Myoelectric Control</strong></summary>
 
   <strong>Control with Minimal Data</strong><br>
-  <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="600px">
+  <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="600px"><br clear="left"/>
   Prosthetic hands
   <br>Find out more:<br>
   [Paper](https://ieeexplore.ieee.org/abstract/document/9896480/) | [PDF]() | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
@@ -37,7 +37,7 @@ My research focus is on improving prosthetic hand control from a holistic perspe
   <summary><strong>Sensory Feedback</strong></summary>
 
   <strong>Haptic Feedback Armband Development</strong><br>
-  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="800px">
+  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="800px"><br clear="left"/>
   Prosthetic hands
   <br>Find out more:<br>
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16) | [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf) | [Presentation](https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d)
