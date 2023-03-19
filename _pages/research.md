@@ -19,12 +19,17 @@ My research focus is on improving prosthetic hand control from a holistic perspe
   <strong>Control with Minimal Data</strong><br>
   <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="600px">
   Prosthetic hands
-  <br>
+  <br>Find out more:<br>
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9896480/) | [PDF]() | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
+  <br clear="left"/>
+
 
   <strong>Embedded Deep Learning-Based Control</strong><br>
   <img src="https://dchappell2203.github.io//images/research/embedded.png" align="left" width="300px">
   Prosthetic hands
-  <br>
+  <br>Find out more:<br>
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9811741/) | [PDF](https://drive.google.com/file/u/0/d/1RFQpLkuLijaY43AA8kR5XPqLvcGlExeF/view) | [Presentation](https://www.youtube.com/watch?v=fXIlpW6o_YA)
+  <br clear="left"/>
 
 </details>
 <br>
@@ -34,7 +39,9 @@ My research focus is on improving prosthetic hand control from a holistic perspe
   <strong>Haptic Feedback Armband Development</strong><br>
   <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="800px">
   Prosthetic hands
-  <br>
+  <br>Find out more:<br>
+  [Paper](https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16) | [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf) | [Presentation](https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d)
+  <br clear="left"/>
 
 </details>
 <br>
@@ -44,7 +51,10 @@ My research focus is on improving prosthetic hand control from a holistic perspe
   <strong>Virtual Reality Training</strong><br>
   <img src="https://dchappell2203.github.io//images/research/vr_training.png" align="left" width="300px">
   Prosthetic hands
-  <br>
+  <br>Find out more:<br>
+  [Paper](https://ieeexplore.ieee.org/abstract/document/9714006) | [PDF](https://spiral.imperial.ac.uk/bitstream/10044/1/95373/2/Conference_Paper___ICRA_2022___VR_Prosthetic_Hand_Feedback_Resubmission.pdf) | [Video](https://www.youtube.com/watch?v=beY-pm6CNCM) | [Presentation](https://www.youtube.com/watch?v=8G7L77RqZ6o)
+  <br clear="left"/>
+
 </details>
 <br>
 
