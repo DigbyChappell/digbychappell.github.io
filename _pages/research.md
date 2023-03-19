@@ -31,11 +31,20 @@ My research focus is on improving prosthetic hand control from a holistic perspe
 <details>
   <summary><strong>Sensory Feedback</strong></summary>
 
+  #### Haptic Feedback Armband Development
+  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="300px">
+  Prosthetic hands
+  <br>
+
 </details>
 <br>
 <details>
   <summary><strong>User Training</strong></summary>
 
+  #### Virtual Reality Training
+  <img src="https://dchappell2203.github.io//images/research/vr_training.png" align="left" width="300px">
+  Prosthetic hands
+  <br>
 </details>
 <br>
 
