@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Mr. Digby Chappell"
+title                    : "Digby Chappell"
 title_separator          : "-"
 name                     : &name "Digby Chappell"
 description              : &description "personal description"
