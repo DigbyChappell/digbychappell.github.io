@@ -56,3 +56,5 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 <br> Ke Wang, David Marsh, Roni Permana Saputra, **Digby Chappell**, Zhonghe Jiang, Akshay Raut, Bethany Kon, and Petar Kormushev. <br>
 *IEEE International Conference on Intelligent Robots and Systems (IROS).* **2020**.<br>
 [Paper](https://kormushev.com/papers/Wang_IROS-2020.pdf) | [Video](https://www.youtube.com/watch?v=ioqguHbpi2Y)
+
+[[go top](https://dchappell2203.github.io/publications/)]  

@@ -15,5 +15,3 @@ Prior to joining Imperial College, I received an MEng degree in Engineering from
 My research interests include all things **prosthetics** and **robotics**, particularly **prosthetic hands**. When I'm not in the lab, I'm usually playing badminton, othello, or making ice cream.
 
 Please feel free to contact me if you're interested in my research (or my icecream)!
-
-[[go top](https://dchappell2203.github.io/)]  

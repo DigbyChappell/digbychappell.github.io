@@ -16,7 +16,9 @@ My research focus is on improving **prosthetic hand control** from a holistic pe
 
   <strong>Control with Minimal Data</strong><br>
   <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="600px"><br clear="left"/>
-  Prosthetic hands
+  
+  Prosthetic hand control research typically focuses on developing increasingly complex controllers to achieve diminishing returns in pattern recognition of muscle activity signals, making models less suitable for user calibration. Some works have investigated transfer learning to alleviate this, but such approaches increase model size dramatically---thus reducing their suitability for implementation on real prostheses. In this work, we propose a novel, non-parametric controller that uses the Wasserstein distance to compare the distribution of incoming signals to those of a set of reference distributions, with the intended action classified as the closest distribution. This controller requires only a single capture of data per reference distribution, making calibration almost instantaneous. Preliminary experiments building a reference library show that, in theory, users are able to produce up to 9 distinguishable muscle activity patterns. However, in practice, variation when repeating actions reduces this. Controller accuracy results show that 10 non-disabled and 1 disabled participant were able to use the controller with a maximum of two recalibrations to perform 6 actions at an average accuracy of 89.9% and 86.7%, respectively. Practical experiments show that the controller allows users to complete all tasks of the Jebsen-Taylor Hand Function Test, although the task of picking and placing small common objects required on average more time than the protocol’s maximum time.
+  
   <br>Find out more:<br>
   <a href="https://ieeexplore.ieee.org/abstract/document/9896480/" target="_blank">Paper</a>
   | <a href="https://ieeexplore.ieee.org/abstract/document/9896480/" target="_blank">PDF</a>
@@ -24,7 +26,7 @@ My research focus is on improving **prosthetic hand control** from a holistic pe
   | <a href="https://www.youtube.com/watch?v=O_SNMl11OJY" target="_blank">Presentation</a>
   <br clear="left"/>
   <br><br>
-
+  
   <strong>Embedded Deep Learning-Based Control</strong><br>
   <img src="https://dchappell2203.github.io//images/research/embedded.png" align="left" width="300px">
   Prosthetic hands
@@ -40,7 +42,7 @@ My research focus is on improving **prosthetic hand control** from a holistic pe
   <summary><strong>Sensory Feedback</strong></summary>
 
   <strong>Haptic Feedback Armband Development</strong><br>
-  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="800px"><br clear="left"/>
+  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>
   Prosthetic hands
   <br>Find out more:<br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16" target="_blank">Paper</a>
