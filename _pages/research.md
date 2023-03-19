@@ -14,12 +14,16 @@ redirect_from:
 My research focus is on improving prosthetic hand control from a holistic perspective, looking at user training, sensory feedback, and developing myoelectric control algorithms.
 
 <details>
-  <summary>### Myoelectric Control</summary>
+  <summary><strong>Myoelectric Control</strong></summary>
 
-  #### Embedded Pattern Recognition Control
+  #### Minimal Data Pattern Recognition Control
+  <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="300px">
+  Prosthetic hands
   <br>
 
-  #### Hehe
+  #### Embedded Pattern Recognition Control
+  <img src="https://dchappell2203.github.io//images/research/embedded.png" align="left" width="300px">
+  Prosthetic hands
   <br>
 
 </details>
