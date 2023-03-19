@@ -16,12 +16,12 @@ My research focus is on improving prosthetic hand control from a holistic perspe
 <details>
   <summary><strong>Myoelectric Control</strong></summary>
 
-  #### Minimal Data Pattern Recognition Control
-  <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="300px">
+  <strong>Control with Minimal Data</strong><br>
+  <img src="https://dchappell2203.github.io//images/research/wass_discrete.gif" align="left" width="600px">
   Prosthetic hands
   <br>
 
-  #### Embedded Pattern Recognition Control
+  <strong>Embedded Deep Learning-Based Control</strong><br>
   <img src="https://dchappell2203.github.io//images/research/embedded.png" align="left" width="300px">
   Prosthetic hands
   <br>
@@ -31,8 +31,8 @@ My research focus is on improving prosthetic hand control from a holistic perspe
 <details>
   <summary><strong>Sensory Feedback</strong></summary>
 
-  #### Haptic Feedback Armband Development
-  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="300px">
+  <strong>Haptic Feedback Armband Development</strong><br>
+  <img src="https://dchappell2203.github.io//images/research/haptic_armband.png" align="left" width="800px">
   Prosthetic hands
   <br>
 
@@ -41,7 +41,7 @@ My research focus is on improving prosthetic hand control from a holistic perspe
 <details>
   <summary><strong>User Training</strong></summary>
 
-  #### Virtual Reality Training
+  <strong>Virtual Reality Training</strong><br>
   <img src="https://dchappell2203.github.io//images/research/vr_training.png" align="left" width="300px">
   Prosthetic hands
   <br>
