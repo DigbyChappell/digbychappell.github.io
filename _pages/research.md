@@ -19,7 +19,7 @@ My research focus is on improving **prosthetic hand control** from a holistic pe
   
   <br>Find out more:<br>
   <a href="https://ieeexplore.ieee.org/abstract/document/9896480/" target="_blank">Paper</a>
-  | <a href="https://ieeexplore.ieee.org/abstract/document/9896480/" target="_blank">PDF</a>
+  | <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/96928/2/Conference_Paper___ICORR_2022___Wasserstein_Control.pdf" target="_blank">PDF</a>
   | <a href="https://www.youtube.com/watch?v=AWtHQU4buZI" target="_blank">Video</a>
   | <a href="https://www.youtube.com/watch?v=O_SNMl11OJY" target="_blank">Presentation</a>
   <br clear="left"/>

@@ -18,7 +18,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 [Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance](https://ieeexplore.ieee.org/abstract/document/9896480/) (Oral Presentation)
 <br>**Digby Chappell**, Zeyu Yang, Honn Wee Son, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
 *IEEE International Conference on Rehabilitation Robotics (ICORR).* **2022**.<br>
-[Paper]() | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
+[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/96928/2/Conference_Paper___ICORR_2022___Wasserstein_Control.pdf) | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
 
 [Virtual Reality Pre-Prosthetic Hand Training with Physics Simulation and Robotic Force Interaction](https://ieeexplore.ieee.org/abstract/document/9714006)
 <br>**Digby Chappell**, Honn Wee Son, Angus B. Clark, Zeyu Yang, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
