@@ -11,8 +11,13 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 ### 2023
 [Immersive Demonstrations are the Key to Imitation Learning](https://arxiv.org/abs/2301.09157)
 <br>Kelin Li\*, **Digby Chappell**\*, and Nicolas Rojas.<br>
-*IEEE International Conference on Robotics and Automation (ICRA) (to appear).* **2023**.<br>
-\*equal contribution | [Paper](https://arxiv.org/pdf/2301.09157)
+*IEEE International Conference on Robotics and Automation (ICRA).* **2023**.<br>
+\*equal contribution | [Paper](https://arxiv.org/pdf/2301.09157) | [Video](https://www.youtube.com/watch?v=-dwIhUv2jLk)
+
+[Efficient labelling for efficient deep learning: the benefit of a multiple-image-ranking method to generate high volume training data applied to ventricular slice level classification in cardiac MRI](https://jmai.amegroups.org/article/view/7645/html)
+<br>Sameer Zaman, Kavitha Vimalesvaran, James P. Howard, **Digby Chappell**, Marta Varela, Nicholas S. Peters, Darrel P. Francis, Anil A. Bharath, Nick W. F. Linton, Graham D. Cole<br>
+*Journal of Medical Artificial Intelligence (JMAI).* **2023**.<br>
+[Paper](https://jmai.amegroups.org/article/view/7645/html)
 
 ### 2022
 [Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance](https://ieeexplore.ieee.org/abstract/document/9896480/) (Oral Presentation)
