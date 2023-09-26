@@ -7,10 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-My research focus is on improving **prosthetic hand control** from a holistic perspective, looking at user training, sensory feedback, and developing myoelectric control algorithms.
+My research focus is on improving **prosthetic hand control** from a multifaceted, user-centric perspective, looking at every aspect from training with traditional myoelectric controllers, advancing classification-based controllers, developing continuous controllers, and designing more effective terminal devices and grippers.
 
 <details>
-  <summary><strong>Myoelectric Control</strong></summary>
+  <summary><strong>Terminal Device and Gripper Design</strong></summary>
+
+  <strong>The Hydra Hand (RA-L 2023)</strong><br>
+  <img src="https://digbychappell.github.io//images/research/hydra.png" align="left" width="300px">
+  Human hands are able to grasp a wide range of object sizes, shapes, and weights, achieved via reshaping and altering their apparent grasping stiffness between compliant power and rigid precision. Achieving similar versatility in robotic hands remains a challenge, which has often been addressed by adding extra controllable degrees of freedom, tactile sensors, or specialised extra grasping hardware, at the cost of control complexity and robustness. We introduce a novel reconfigurable four-fingered two-actuator underactuated gripper -- the Hydra Hand -- that switches between compliant power and rigid precision grasps using a single motor, while generating grasps via a single hydraulic actuator -- exhibiting adaptive grasping between finger pairs, enabling the power grasping of two objects simultaneously. The mode switching mechanism and the hand's kinematics are presented and analysed, and performance is tested on two grasping benchmarks: one focused on rigid objects, and the other on items of clothing. The Hydra Hand is shown to excel at grasping large and irregular objects, and small objects with its respective compliant power and rigid precision configurations. The hand's versatility is then showcased by executing the challenging manipulation task of safely grasping and placing a bunch of grapes, and then plucking a single grape from the bunch.
+  <br>Find out more:<br>
+  <a href="https://arxiv.org/pdf/2309.14266.pdf" target="_blank">PDF</a>
+  | <a href="https://www.youtube.com/watch?v=upLHX3POim0" target="_blank">Video</a>
+  <br clear="left"/>
+</details>
+<br>
+
+<details>
+  <summary><strong>Continuous Myoelectric Control</strong></summary>
+
+[//]: # (  <strong>Closed-Loop Continuous Control &#40;Under Review&#41;</strong><br>)
+
+[//]: # (  <img src="https://digbychappell.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>)
+[//]: # (Myoelectric prosthetic hands are typically controlled to move between discrete positions and do not provide sensory feedback to the user. Attempts to move beyond this are either invasive, using costly experimental implanted technology, or are noninvasive, using skin-mounted hardware with limited results. In this work, we present and evaluate a next-generation non-invasive myoelectric controller that can continuously control multiple degrees of freedom of a prosthesis while rendering feedback to the user via a haptic feedback armband. In one of the largest studies investigating a new prosthetic hand controller, in terms of participant numbers and breadth of tasks, twenty-eight participants without and ten participants with limb difference were recruited to holistically evaluate the controller. Isolated control and sensory tasks, dexterity assessments, embodiment and task load questionnaires, and post-study interviews were used to understand physical and psychological aspects of controller performance, and study, in real time, the developing relationship between user and prosthesis. The controller is shown to excel at control, sensory, and precision tasks, promote perceived natural motion, and reduce frustration and physical demand; results only achievable when combining haptic feedback and continuous control. Perception influencing factors and key participant differences are identified, informing future rehabilitation practice and research.  <br>Find out more:<br>)
+
+[//]: # (  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16" target="_blank">Paper</a>)
+[//]: # (  | <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf" target="_blank">PDF</a>)
+[//]: # (  | <a href="https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d" target="_blank">Presentation</a>)
+[//]: # (  <br clear="left"/>)
+
+  <strong>Haptic Feedback Armband Development (EuroHaptics 2022)</strong><br>
+  <img src="https://digbychappell.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>
+  This paper presents the implementation and evaluation of three specific, yet complementary, mechanisms of haptic feedback---namely normal displacement, tangential position, and vibration---to render, at a finger-level, aspects of touch and proprioception from a prosthetic hand without specialised sensors. This feedback is executed by an armband worn around the upper arm divided into five somatotopic modules, one per each finger. To evaluate the system, just-noticeable difference experiments for normal displacement and tangential position were carried out, validating that users are most sensitive to feedback from modules located on glabrous (hairless) skin regions of the upper arm. Moreover, users identifying finger-level contact using multi-modal feedback of vibration followed by normal displacement performed significantly better than those using vibration feedback alone, particularly when reporting exact combinations of fingers. Finally, the point of subjective equality of tangential position feedback was measured simultaneously for all modules, which showed promising results, but indicated that further development is required to achieve full finger-level position rendering.
+  <br>Find out more:<br>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16" target="_blank">Paper</a>
+  | <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf" target="_blank">PDF</a>
+  | <a href="https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d" target="_blank">Presentation</a>
+  <br clear="left"/>
+
+</details>
+<br>
+
+<details>
+  <summary><strong>Classification-Based Myoelectric Control</strong></summary>
 
   <strong>Control with Minimal Data (ICORR 2022)</strong><br>
   <img src="https://digbychappell.github.io//images/research/wass_discrete.gif" align="left" width="600px"><br clear="left"/>
@@ -36,22 +74,9 @@ My research focus is on improving **prosthetic hand control** from a holistic pe
 
 </details>
 <br>
-<details>
-  <summary><strong>Sensory Feedback</strong></summary>
 
-  <strong>Haptic Feedback Armband Development (EuroHaptics 2022)</strong><br>
-  <img src="https://digbychappell.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>
-  This paper presents the implementation and evaluation of three specific, yet complementary, mechanisms of haptic feedback---namely normal displacement, tangential position, and vibration---to render, at a finger-level, aspects of touch and proprioception from a prosthetic hand without specialised sensors. This feedback is executed by an armband worn around the upper arm divided into five somatotopic modules, one per each finger. To evaluate the system, just-noticeable difference experiments for normal displacement and tangential position were carried out, validating that users are most sensitive to feedback from modules located on glabrous (hairless) skin regions of the upper arm. Moreover, users identifying finger-level contact using multi-modal feedback of vibration followed by normal displacement performed significantly better than those using vibration feedback alone, particularly when reporting exact combinations of fingers. Finally, the point of subjective equality of tangential position feedback was measured simultaneously for all modules, which showed promising results, but indicated that further development is required to achieve full finger-level position rendering.
-  <br>Find out more:<br>
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16" target="_blank">Paper</a>
-  | <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf" target="_blank">PDF</a>
-  | <a href="https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d" target="_blank">Presentation</a>
-  <br clear="left"/>
-
-</details>
-<br>
 <details>
-  <summary><strong>User Training</strong></summary>
+  <summary><strong>User Training with Traditional Myoelectric Controllers</strong></summary>
 
   <strong>Virtual Reality Training (RA-L 2022)</strong><br>
   <img src="https://digbychappell.github.io//images/research/vr_training.png" align="left" width="300px">
