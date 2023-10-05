@@ -24,16 +24,7 @@ My research focus is on improving **prosthetic hand control** from a multifacete
 
 <details>
   <summary><strong>Continuous Myoelectric Control</strong></summary>
-
-[//]: # (  <strong>Closed-Loop Continuous Control &#40;Under Review&#41;</strong><br>)
-
-[//]: # (  <img src="https://digbychappell.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>)
-[//]: # (Myoelectric prosthetic hands are typically controlled to move between discrete positions and do not provide sensory feedback to the user. Attempts to move beyond this are either invasive, using costly experimental implanted technology, or are noninvasive, using skin-mounted hardware with limited results. In this work, we present and evaluate a next-generation non-invasive myoelectric controller that can continuously control multiple degrees of freedom of a prosthesis while rendering feedback to the user via a haptic feedback armband. In one of the largest studies investigating a new prosthetic hand controller, in terms of participant numbers and breadth of tasks, twenty-eight participants without and ten participants with limb difference were recruited to holistically evaluate the controller. Isolated control and sensory tasks, dexterity assessments, embodiment and task load questionnaires, and post-study interviews were used to understand physical and psychological aspects of controller performance, and study, in real time, the developing relationship between user and prosthesis. The controller is shown to excel at control, sensory, and precision tasks, promote perceived natural motion, and reduce frustration and physical demand; results only achievable when combining haptic feedback and continuous control. Perception influencing factors and key participant differences are identified, informing future rehabilitation practice and research.  <br>Find out more:<br>)
-
-[//]: # (  <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16" target="_blank">Paper</a>)
-[//]: # (  | <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-06249-0_16.pdf" target="_blank">PDF</a>)
-[//]: # (  | <a href="https://webcast.tuhh.de/Mediasite/Play/bdcfa56e8f1c4593a4690fd58b644c2d1d" target="_blank">Presentation</a>)
-[//]: # (  <br clear="left"/>)
+  Coming soon!
 
   <strong>Haptic Feedback Armband Development (EuroHaptics 2022)</strong><br>
   <img src="https://digbychappell.github.io//images/research/haptic_armband.png" align="left" width="750px"><br clear="left"/>

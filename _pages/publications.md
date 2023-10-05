@@ -9,7 +9,7 @@ author_profile: true
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
 
 ### 2023
-[The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://arxiv.org/abs/2309.14266)
+[The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://ieeexplore.ieee.org/document/10268091)
 <br>**Digby Chappell**, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA.* **2023**.<br>
 [Paper](https://arxiv.org/abs/2309.14266.pdf) | [Video](https://www.youtube.com/watch?v=upLHX3POim0)
