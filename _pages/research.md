@@ -12,13 +12,17 @@ My research focus is on improving **prosthetic hand control** from a multifacete
 <details>
   <summary><strong>Terminal Device and Gripper Design</strong></summary>
 
-  <strong>The Hydra Hand (RA-L 2023)</strong><br>
-  <img src="https://digbychappell.github.io//images/research/hydra.gif" align="left" width="300px">
-  Human hands are able to grasp a wide range of object sizes, shapes, and weights, achieved via reshaping and altering their apparent grasping stiffness between compliant power and rigid precision. Achieving similar versatility in robotic hands remains a challenge, which has often been addressed by adding extra controllable degrees of freedom, tactile sensors, or specialised extra grasping hardware, at the cost of control complexity and robustness. We introduce a novel reconfigurable four-fingered two-actuator underactuated gripper -- the Hydra Hand -- that switches between compliant power and rigid precision grasps using a single motor, while generating grasps via a single hydraulic actuator -- exhibiting adaptive grasping between finger pairs, enabling the power grasping of two objects simultaneously. The mode switching mechanism and the hand's kinematics are presented and analysed, and performance is tested on two grasping benchmarks: one focused on rigid objects, and the other on items of clothing. The Hydra Hand is shown to excel at grasping large and irregular objects, and small objects with its respective compliant power and rigid precision configurations. The hand's versatility is then showcased by executing the challenging manipulation task of safely grasping and placing a bunch of grapes, and then plucking a single grape from the bunch.
-  <br>Find out more:<br>
-  <a href="https://arxiv.org/pdf/2309.14266.pdf" target="_blank">PDF</a>
-  | <a href="https://www.youtube.com/watch?v=upLHX3POim0" target="_blank">Video</a>
-  <br clear="left"/>
+<table width="100%" style="border:0px solid white; width:100%">
+  <tr style="border:0px;">
+    <td width="300" style="border:0px;"><img src="https://digbychappell.github.io//images/research/hydra.gif" align="right" width="300px"></td>
+    <td width="450" style="border:0px;"> [The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://ieeexplore.ieee.org/document/10268091)
+<br>**Digby Chappell**, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
+*IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA.* **2023**.<br>
+[Paper](https://arxiv.org/abs/2309.14266.pdf) | [Video](https://www.youtube.com/watch?v=upLHX3POim0)</td>
+  </tr>
+</table>
+Human hands are able to grasp a wide range of object sizes, shapes, and weights, achieved via reshaping and altering their apparent grasping stiffness between compliant power and rigid precision. Achieving similar versatility in robotic hands remains a challenge, which has often been addressed by adding extra controllable degrees of freedom, tactile sensors, or specialised extra grasping hardware, at the cost of control complexity and robustness. We introduce a novel reconfigurable four-fingered two-actuator underactuated gripper -- the Hydra Hand -- that switches between compliant power and rigid precision grasps using a single motor, while generating grasps via a single hydraulic actuator -- exhibiting adaptive grasping between finger pairs, enabling the power grasping of two objects simultaneously. The mode switching mechanism and the hand's kinematics are presented and analysed, and performance is tested on two grasping benchmarks: one focused on rigid objects, and the other on items of clothing. The Hydra Hand is shown to excel at grasping large and irregular objects, and small objects with its respective compliant power and rigid precision configurations. The hand's versatility is then showcased by executing the challenging manipulation task of safely grasping and placing a bunch of grapes, and then plucking a single grape from the bunch.
+
 </details>
 <br>
 
