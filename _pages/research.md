@@ -35,7 +35,6 @@ My research focus is on improving **prosthetic hand control** from a multifacete
   <table width="100%" style="border:0px solid white; width:100%">
     <tr style="border:0px;">
       <td align="center" width="750" style="border:0px;"><img src="https://digbychappell.github.io//images/research/haptic_armband.png" width="600"></td>
-      </td>
     </tr>
     <tr style="border:0px;">
       <td width="750" style="border:0px;"> <a href="https://link.springer.com/chapter/10.1007/978-3-031-06249-0_16">A Multi-Modal Haptic Armband for Finger-Level Sensory Feedback from a Prosthetic Hand</a>
@@ -57,7 +56,6 @@ My research focus is on improving **prosthetic hand control** from a multifacete
   <table width="100%" style="border:0px solid white; width:100%">
     <tr style="border:0px;">
       <td align="center" width="750" style="border:0px;"><img src="https://digbychappell.github.io//images/research/wass_discrete.gif" width="600"></td>
-      </td>
     </tr>
     <tr style="border:0px;">
       <td width="750" style="border:0px;"> <a href="https://ieeexplore.ieee.org/abstract/document/9896480/">Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance (Oral Presentation)</a>
