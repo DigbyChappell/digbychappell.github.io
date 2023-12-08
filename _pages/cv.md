@@ -68,7 +68,7 @@ Employment
 Awards, Interests, and Other Achievements
 ======  
 * **Early Career Committee Member** of the *ISPO Trent International Prosthetics Symposium 2025*
-* **Winner of the Amazon Robotics Prize for Outstanding Achievement in Robotics 2023** *Late Stage PhD category*
+* **Winner of the Amazon Prize for Outstanding Achievement in Robotics 2023** *Late Stage PhD category*
 * **Best presentation award** at the *UKRI AI CDTs in Healthcare Conference 2022*
 * **Associate Fellow** of the *Higher Education Authority*
 * **Design category winner** of the *Telegraph STEM Awards 2016*
