@@ -16,8 +16,8 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 
 [Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks](https://arxiv.org/abs/2306.14553)
 <br>Wei Chen, Dongmyoung Lee, **Digby Chappell**, and Nicolas Rojas.<br>
-*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).* **2023** (to appear).<br>
-[Paper](https://arxiv.org/pdf/2306.14553.pdf)
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).* **2023**.<br>
+[Paper](https://arxiv.org/pdf/2306.14553.pdf) | [Video](https://www.youtube.com/watch?v=fEmlbfU8yss)
 
 [Immersive Demonstrations are the Key to Imitation Learning](https://arxiv.org/abs/2301.09157)
 <br>Kelin Li\*, **Digby Chappell**\*, and Nicolas Rojas.<br>
