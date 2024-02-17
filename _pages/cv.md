@@ -11,12 +11,17 @@ redirect_from:
 
 For more information, please see my full [CV](https://digbychappell.github.io/files/CV_Academic.pdf).
 
-Education
+Research & Education
 ======
 <table width="100%" style="border:0px solid white; width:100%">
+<tr style="border:0px;">
+    <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/harvard_logo.png" align="right" width="150px"></td>
+    <td width="120" style="border:0px;"><nobr>2024 - present</nobr></td>
+    <td width="0%" style="border:0px;"><strong>Postdoctoral Fellow</strong><br>Harvard University, USA.</td>
+  </tr>
   <tr style="border:0px;">
     <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/imperial_logo.png" align="right" width="150px"></td>
-    <td width="120" style="border:0px;"><nobr>2019 - present</nobr></td>
+    <td width="120" style="border:0px;"><nobr>2019 - 2024</nobr></td>
     <td width="0%" style="border:0px;"><strong>PhD Student</strong><br>Imperial College London, UK.</td>
   </tr>
   <tr style="border:0px;">
@@ -38,7 +43,7 @@ Employment
 <table class="images" width="100%" style="border:0px solid white; width:100%">
   <tr style="border:0px;">
     <td width="175" style="border:0px;"><img src="https://digbychappell.github.io//images/imperial_logo.png" align="right" width="150px"></td>
-    <td width="120" style="border:0px;"><nobr>2019 - present</nobr></td>
+    <td width="120" style="border:0px;"><nobr>2019 - 2023</nobr></td>
     <td width="0%" style="border:0px;"><strong>Graduate Teaching Assistant</strong><br>Imperial College London, UK</td>
   </tr>
   <tr style="border:0px;">
@@ -68,10 +73,10 @@ Employment
 Awards, Interests, and Other Achievements
 ======  
 * **Early Career Committee Member** of the *ISPO Trent International Prosthetics Symposium 2025*
-* **Winner of the Amazon Prize for Outstanding Achievement in Robotics 2023** *Late Stage PhD category*
+* **Winner of the Amazon Prize for Outstanding Achievement in Robotics 2023** *Late Stage PhD category* ([Article](https://www.imperial.ac.uk/news/251220/dyson-school-excels-amazonimperial-robotics-awards/))
 * **Best presentation award** at the *UKRI AI CDTs in Healthcare Conference 2022*
 * **Associate Fellow** of the *Higher Education Authority*
-* **Design category winner** of the *Telegraph STEM Awards 2016*
+* **Design category winner** of the *Telegraph STEM Awards 2016* ([Article](https://www.jesus.cam.ac.uk/articles/jesus-college-undergraduates-win-telegraph-uk-stem-award))
 * **Arkwright Scholar**
 
 [[go top](https://digbychappell.github.io/cv/)]  

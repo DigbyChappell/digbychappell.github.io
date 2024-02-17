@@ -11,7 +11,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 ### 2023
 [The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://ieeexplore.ieee.org/document/10268091)
 <br>**Digby Chappell**, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
-*IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA.* **2023**.<br>
+*IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2024.* **2023**.<br>
 [Paper](https://arxiv.org/abs/2309.14266.pdf) | [Video](https://www.youtube.com/watch?v=upLHX3POim0)
 
 [Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks](https://arxiv.org/abs/2306.14553)
@@ -37,7 +37,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 
 [Virtual Reality Pre-Prosthetic Hand Training with Physics Simulation and Robotic Force Interaction](https://ieeexplore.ieee.org/abstract/document/9714006)
 <br>**Digby Chappell**, Honn Wee Son, Angus B. Clark, Zeyu Yang, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
-*IEEE Robotics and Automation Letters (RA-L), presented at ICRA.* **2022**.<br>
+*IEEE Robotics and Automation Letters (RA-L), presented at ICRA 2022.* **2022**.<br>
 [Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/95373/2/Conference_Paper___ICRA_2022___VR_Prosthetic_Hand_Feedback_Resubmission.pdf) | [Video](https://www.youtube.com/watch?v=beY-pm6CNCM) | [Presentation](https://www.youtube.com/watch?v=8G7L77RqZ6o)
 
 [Instinctive Real-time sEMG-Based Control of Prosthetic Hand with Reduced Data Acquisition and Embedded Deep Learning Training](https://ieeexplore.ieee.org/abstract/document/9811741/)
