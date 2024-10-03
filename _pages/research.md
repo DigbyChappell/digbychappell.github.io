@@ -46,7 +46,7 @@ My research focus is **assistive and rehabilitative technology**. Here you can f
       <strong>Closed-Loop Continuous Myoelectric Control</strong>
       <table width="100%" style="border:0px solid white; width:100%">
         <tr style="border:0px;">
-          <td align="center" width="750" style="border:0px;"><img src="https://digbychappell.github.io//images/research/wass_continuous.png" width="600"></td>
+          <td align="center" width="750" style="border:0px;"><img src="https://digbychappell.github.io//images/research/wass_continuous.gif" width="600"></td>
         </tr>
         <tr style="border:0px;">
           <td width="750" style="border:0px;"> <a href="https://arxiv.org/pdf/2409.15578">Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands</a>
