@@ -8,6 +8,22 @@ author_profile: true
 ## Selected Publications
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
 
+### 2024
+[Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance](https://arxiv.org/abs/2409.15589)
+<br>**Digby Chappell**, Barry Mulvey, Shehara Perera, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
+*Under Review.* **2024**.<br>
+[Pre-print](https://arxiv.org/abs/2409.15589) | [Video](https://youtu.be/lGFq_VcQJmM)
+
+[Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://arxiv.org/abs/2409.15578)
+<br>**Digby Chappell**, Zeyu Yang, Angus B Clark, Alexandre Berkovic, Colin Laganier, Weston Baxter, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
+*Under Review.* **2024**.<br>
+[Pre-print](https://arxiv.org/abs/2409.15578)
+
+[When and where to step: Terrain-aware real-time footstep location and timing optimization for bipedal robots](https://www.sciencedirect.com/science/article/pii/S092188902400126X)
+<br>Ke Wang, Zhaoyang Jacopo Hu, Peter Tisnikar, Oskar Helander, **Digby Chappell**, and Petar Kormushev.<br>
+*Robotics and Autonomous Systems (RAS).* **2024**.<br>
+[Paper](https://www.sciencedirect.com/science/article/pii/S092188902400126X)
+
 ### 2023
 [The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://ieeexplore.ieee.org/document/10268091)
 <br>**Digby Chappell**, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
