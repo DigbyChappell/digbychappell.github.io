@@ -18,7 +18,7 @@ My research focus is **assistive and rehabilitative technology**, including pros
       <td width="300" style="border:0px; vertical-align:top"><img src="https://digbychappell.github.io//images/research/non-humanoid.gif" align="right" width="300px"></td>
       <td width="450" style="border:0px; vertical-align:top"> <a href="https://arxiv.org/pdf/2409.15589">Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance</a>
         <br><b>Digby Chappell</b>, Barry Mulvey, Shehara Perera, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
-        <i>Under Review.</i> <b>2023</b>.<br>
+        <i>Under Review.</i> <b>2024</b>.<br>
         <a href="https://arxiv.org/pdf/2409.15589">Pre-print</a> | <a href="https://youtu.be/lGFq_VcQJmM">Video</a>
       </td>
     </tr>
