@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include my-gallery.html folder="images/icecream" %}
+{% include my-gallery.html folder="/images/icecream" %}
 
 [[go top](https://digbychappell.github.io/ice_cream/)]  
