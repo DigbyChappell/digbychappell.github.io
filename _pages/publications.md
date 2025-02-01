@@ -9,16 +9,15 @@ author_profile: true
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
 
 ### 2025
-[Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance](https://arxiv.org/abs/2409.15589)
+[Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://www.nature.com/articles/s41598-025-87048-x)
+<br>**Digby Chappell**, Zeyu Yang, Angus B Clark, Alexandre Berkovic, Colin Laganier, Weston Baxter, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
+*Scientific Reports.* **2025**.<br>
+[Paper](https://www.nature.com/articles/s41598-025-87048-x.pdf) | [Video](https://www.youtube.com/watch?v=jsHebMJF0WQ)
+
+[Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance](https://ieeexplore.ieee.org/document/10838713)
 <br>**Digby Chappell**, Barry Mulvey, Shehara Perera, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering.* **2025**.<br>
-[Pre-print](https://arxiv.org/abs/2409.15589) | [Video](https://youtu.be/lGFq_VcQJmM)
-
-### 2024
-[Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://arxiv.org/abs/2409.15578)
-<br>**Digby Chappell**, Zeyu Yang, Angus B Clark, Alexandre Berkovic, Colin Laganier, Weston Baxter, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
-*Under Review.* **2024**.<br>
-[Pre-print](https://arxiv.org/abs/2409.15578)
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838713) | [Video](https://youtu.be/lGFq_VcQJmM)
 
 [When and where to step: Terrain-aware real-time footstep location and timing optimization for bipedal robots](https://www.sciencedirect.com/science/article/pii/S092188902400126X)
 <br>Ke Wang, Zhaoyang Jacopo Hu, Peter Tisnikar, Oskar Helander, **Digby Chappell**, and Petar Kormushev.<br>
