@@ -26,7 +26,7 @@ My research focus is **assistive and rehabilitative technology**, including pros
     <td width="0%" style="border:0px;"><a href="https://digbychappell.github.io/research/classification_control/"><strong>Classification-Based Myoelectric Control</strong></a></td>
 </tr>
 <tr style="border:0px;">
-    <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/research/vr_training.gif" align="right" width="250px"></td>
+    <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/research/training.gif" align="right" width="250px"></td>
     <td width="0%" style="border:0px;"><a href="https://digbychappell.github.io/research/user_training/"><strong>User Training with Traditional Myoelectric Controllers</strong></a></td>
 </tr>
 </table>
