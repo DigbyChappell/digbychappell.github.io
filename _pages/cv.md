@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For more information, please see my full [CV](https://digbychappell.github.io/files/CV_Academic.pdf).
+For more information, please see my full [CV](https://digbychappell.github.io/files/CV_Feb_2025.pdf).
 
 Research & Education
 ======
