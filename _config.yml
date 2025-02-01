@@ -303,6 +303,8 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+imagesurl: "/images/icecream/"
+
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:

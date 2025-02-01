@@ -19,6 +19,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering.* **2025**.<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838713) | [Video](https://youtu.be/lGFq_VcQJmM)
 
+### 2024
 [When and where to step: Terrain-aware real-time footstep location and timing optimization for bipedal robots](https://www.sciencedirect.com/science/article/pii/S092188902400126X)
 <br>Ke Wang, Zhaoyang Jacopo Hu, Peter Tisnikar, Oskar Helander, **Digby Chappell**, and Petar Kormushev.<br>
 *Robotics and Autonomous Systems (RAS).* **2024**.<br>
