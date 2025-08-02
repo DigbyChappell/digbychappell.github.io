@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-My research focus is **assistive and rehabilitative technology**, including prosthetic hands and lower limb neuroprostheses. Here you can find details of my current and previous research.
+My research focus is **assistive and rehabilitative technology**. Here you can find details of my current and previous research.
 
-<strong><big>Prosthetic Hand Control</big></strong>
+<strong><big>Upper Limb Prosthetics</big></strong>
 <br>
 
 <table width="100%" style="border:0px solid white; width:100%">
