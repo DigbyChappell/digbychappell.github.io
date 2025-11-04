@@ -19,6 +19,11 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering.* **2025**.<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838713) | [Video](https://youtu.be/lGFq_VcQJmM)
 
+[Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.21)
+<br>Matvey Boguslavskiy, **Digby Chappell**, and Thrishantha Nanayakkara.<br>
+*Advancing Human-Computer Interaction for Space Exploration (SpaceCHI).* **2025**.<br>
+[Paper](https://drops.dagstuhl.de/storage/01oasics/oasics-vol130-spacechi2025/OASIcs.SpaceCHI.2025.21/OASIcs.SpaceCHI.2025.21.pdf) | [Project](https://www.matvey.contact/projects/thesis.html)
+
 ### 2024
 [When and where to step: Terrain-aware real-time footstep location and timing optimization for bipedal robots](https://www.sciencedirect.com/science/article/pii/S092188902400126X)
 <br>Ke Wang, Zhaoyang Jacopo Hu, Peter Tisnikar, Oskar Helander, **Digby Chappell**, and Petar Kormushev.<br>
@@ -28,7 +33,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 ### 2023
 [The Hydra Hand: A Mode-Switching Underactuated Gripper with Precision and Power Grasping Modes](https://ieeexplore.ieee.org/document/10268091)
 <br>**Digby Chappell**, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
-*IEEE Robotics and Automation Letters (RA-L), to be presented at ICRA 2024.* **2023**.<br>
+*IEEE Robotics and Automation Letters (RA-L), presented at ICRA 2024.* **2023**.<br>
 [Paper](https://arxiv.org/abs/2309.14266.pdf) | [Video](https://www.youtube.com/watch?v=upLHX3POim0)
 
 [Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks](https://arxiv.org/abs/2306.14553)
