@@ -18,7 +18,7 @@ author_profile: true
       <td width="750" style="border:0px;"> <a href="https://ieeexplore.ieee.org/abstract/document/9896480/">Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance (Oral Presentation)</a>
         <br><b>Digby Chappell</b>, Zeyu Yang, Honn Wee Son, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
         <i>IEEE International Conference on Rehabilitation Robotics (ICORR).</i> <b>2022</b>.<br>
-        <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/96928/2/Conference_Paper___ICORR_2022___Wasserstein_Control.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=AWtHQU4buZI">Video</a> | <a href="https://www.youtube.com/watch?v=O_SNMl11OJY">Presentation</a>
+        <a href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/5447f4f1-4e5a-4da1-b485-eb2536e88bb9/content">Paper</a> | <a href="https://www.youtube.com/watch?v=AWtHQU4buZI">Video</a> | <a href="https://www.youtube.com/watch?v=O_SNMl11OJY">Presentation</a>
       </td>
     </tr>
   </table>

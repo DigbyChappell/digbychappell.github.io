@@ -16,7 +16,7 @@ author_profile: true
       <td width="450" style="border:0px; vertical-align:top"> <a href="https://ieeexplore.ieee.org/abstract/document/9714006">Virtual Reality Pre-Prosthetic Hand Training with Physics Simulation and Robotic Force Interaction</a>
         <br><b>Digby Chappell</b>, Honn Wee Son, Angus B. Clark, Zeyu Yang, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
         <i>IEEE Robotics and Automation Letters (RA-L), presented at ICRA.</i> <b>2022</b>.<br>
-        <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/95373/2/Conference_Paper___ICRA_2022___VR_Prosthetic_Hand_Feedback_Resubmission.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=beY-pm6CNCM">Video</a> | <a href="https://www.youtube.com/watch?v=8G7L77RqZ6o">Presentation</a>
+        <a href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/ef746887-c5a9-4958-bc10-23b738f2619f/content">Paper</a> | <a href="https://www.youtube.com/watch?v=beY-pm6CNCM">Video</a> | <a href="https://www.youtube.com/watch?v=8G7L77RqZ6o">Presentation</a>
       </td>
     </tr>
   </table>

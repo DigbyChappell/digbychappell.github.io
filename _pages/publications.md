@@ -55,12 +55,12 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 [Towards Instant Calibration in Myoelectric Prosthetic Hands: A Highly Data-Efficient Controller Based on the Wasserstein Distance](https://ieeexplore.ieee.org/abstract/document/9896480/) (Oral Presentation)
 <br>**Digby Chappell**, Zeyu Yang, Honn Wee Son, Fernsando Bello, Petar Kormushev, and Nicolas Rojas.<br>
 *IEEE International Conference on Rehabilitation Robotics (ICORR).* **2022**.<br>
-[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/96928/2/Conference_Paper___ICORR_2022___Wasserstein_Control.pdf) | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
+[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/5447f4f1-4e5a-4da1-b485-eb2536e88bb9/content) | [Video](https://www.youtube.com/watch?v=AWtHQU4buZI) | [Presentation](https://www.youtube.com/watch?v=O_SNMl11OJY)
 
 [Virtual Reality Pre-Prosthetic Hand Training with Physics Simulation and Robotic Force Interaction](https://ieeexplore.ieee.org/abstract/document/9714006)
 <br>**Digby Chappell**, Honn Wee Son, Angus B. Clark, Zeyu Yang, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
 *IEEE Robotics and Automation Letters (RA-L), presented at ICRA 2022.* **2022**.<br>
-[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/95373/2/Conference_Paper___ICRA_2022___VR_Prosthetic_Hand_Feedback_Resubmission.pdf) | [Video](https://www.youtube.com/watch?v=beY-pm6CNCM) | [Presentation](https://www.youtube.com/watch?v=8G7L77RqZ6o)
+[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/ef746887-c5a9-4958-bc10-23b738f2619f/content) | [Video](https://www.youtube.com/watch?v=beY-pm6CNCM) | [Presentation](https://www.youtube.com/watch?v=8G7L77RqZ6o)
 
 [Instinctive Real-time sEMG-Based Control of Prosthetic Hand with Reduced Data Acquisition and Embedded Deep Learning Training](https://ieeexplore.ieee.org/abstract/document/9811741/)
 <br>Zeyu Yang, Angus B. Clark, **Digby Chappell**, and Nicolas Rojas<br>
@@ -76,7 +76,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 [Augmenting loss functions of feedforward neural networks with differential relationships for robot kinematic modelling](https://ieeexplore.ieee.org/abstract/document/9659415/)
 <br>Francesco Cursi, **Digby Chappell**, and Petar Kormushev.<br>
 *IEEE International Conference on Advanced Robotics (ICAR).* **2021**.<br>
-[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/93888/2/Cursi_ICAR-2021_accepted.pdf)
+[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/cf752b5c-5ba6-4704-9327-6cc50e84a1e8/content)
 
 [Hierarchical decomposed-objective model predictive control for autonomous casualty extraction](https://ieeexplore.ieee.org/abstract/document/9369351/)
 <br>Roni Permana Saputra, Nemanja Rakicevic, **Digby Chappell**, Ke Wang, Petar Kormushev.<br>
