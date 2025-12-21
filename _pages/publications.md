@@ -19,7 +19,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 *IEEE Transactions on Neural Systems and Rehabilitation Engineering.* **2025**.<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10838713) | [Video](https://youtu.be/lGFq_VcQJmM)
 
-[Beyond Humanoid Prosthetic Hands: Modular Terminal Devices That Improve User Performance](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.21)
+[Towards Passively Actuated Short-Range Telehaptics for Astronauts](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.21)
 <br>Matvey Boguslavskiy, **Digby Chappell**, and Thrishantha Nanayakkara.<br>
 *Advancing Human-Computer Interaction for Space Exploration (SpaceCHI).* **2025**.<br>
 [Paper](https://drops.dagstuhl.de/storage/01oasics/oasics-vol130-spacechi2025/OASIcs.SpaceCHI.2025.21/OASIcs.SpaceCHI.2025.21.pdf) | [Project](https://www.matvey.contact/projects/thesis.html)

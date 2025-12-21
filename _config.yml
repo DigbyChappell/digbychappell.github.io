@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Digby Chappell"
   avatar           : "Headshot.png"
-  bio              : "Postdoctoral Fellow"
-  employer         : "Harvard University"
-  location         : "Cambridge, MA, USA"
+  bio              : "Associate Professor and Tutorial Fellow"
+  employer         : "Oxford University"
+  location         : "Oxford, UK"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en"
-  email            : "dchappell@seas.harvard.edu"
+  email            : "digby.chappell@eng.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
