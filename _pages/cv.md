@@ -14,10 +14,20 @@ For more information, please see my full [CV](https://digbychappell.github.io/fi
 Research & Education
 ======
 <table width="100%" style="border:0px solid white; width:100%">
-<tr style="border:0px;">
+  <tr style="border:0px;">
+    <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/oxford_logo.png" align="right" width="150px"></td>
+    <td width="120" style="border:0px;"><nobr>2026 - present</nobr></td>
+    <td width="0%" style="border:0px;"><strong>Associate Professor</strong><br>University of Oxford, UK.</td>
+  </tr>
+  <tr style="border:0px;">
+    <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/st_annes_logo.png" align="right" width="150px"></td>
+    <td width="120" style="border:0px;"><nobr>2026 - present</nobr></td>
+    <td width="0%" style="border:0px;"><strong>Tutorial Fellow</strong><br>St Anne's College Oxford, UK.</td>
+  </tr>
+  <tr style="border:0px;">
     <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/harvard_logo.png" align="right" width="150px"></td>
-    <td width="120" style="border:0px;"><nobr>2024 - present</nobr></td>
-    <td width="0%" style="border:0px;"><strong>Postdoctoral Fellow</strong><br>Harvard University, USA.</td>
+    <td width="120" style="border:0px;"><nobr>2025 - present</nobr><br><nobr>2024 - 2025</nobr></td>
+    <td width="0%" style="border:0px;"><strong>Associate</strong><br><strong>Postdoctoral Fellow</strong><br>Harvard University, USA.</td>
   </tr>
   <tr style="border:0px;">
     <td width="0%" style="border:0px;"><img src="https://digbychappell.github.io//images/imperial_logo.png" align="right" width="150px"></td>
@@ -38,7 +48,7 @@ Research & Education
 
 <br>
 
-Employment
+Other Employment
 ======
 <table class="images" width="100%" style="border:0px solid white; width:100%">
   <tr style="border:0px;">
