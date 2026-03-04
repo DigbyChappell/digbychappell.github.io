@@ -8,6 +8,12 @@ author_profile: true
 ## Selected Publications
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
 
+### 2026
+[Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots
+](https://ieeexplore.ieee.org/document/11414191)
+Myles Cooper, Santiago Canete, <br>**Digby Chappell**, and Conor Walsh.<br>
+*IEEE/ASME Transactions on Mechatronics.* **2026**.<br>
+
 ### 2025
 [Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://www.nature.com/articles/s41598-025-87048-x)
 <br>**Digby Chappell**, Zeyu Yang, Angus B Clark, Alexandre Berkovic, Colin Laganier, Weston Baxter, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
