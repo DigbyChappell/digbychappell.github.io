@@ -13,6 +13,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 ](https://ieeexplore.ieee.org/document/11414191)
 <br>Myles Cooper, Santiago Canete, <br>**Digby Chappell**, and Conor Walsh.<br>
 *IEEE/ASME Transactions on Mechatronics.* **2026**.<br>
+[Paper](https://ora.ox.ac.uk/objects/uuid:acb60d1e-2594-4c74-9eef-2ec0a9d447ee/files/rt435gg07j)
 
 ### 2025
 [Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://www.nature.com/articles/s41598-025-87048-x)
