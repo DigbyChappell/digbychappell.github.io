@@ -9,6 +9,12 @@ author_profile: true
 You can find a full list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=8L9IY_MAAAAJ&hl=en).
 
 ### 2026
+[Balancing Biomechanics and Preference in Assistive Device Tuning via Metric-Regularized Optimization
+](https://ieeexplore.ieee.org/document/11457357)
+<br>Dabin K. Choe\*, **Digby Chappell**\*, Ashlyn J. Aiello, Christina Lee, Kimberly Ang, Louis N. Awad, and Conor Walsh.<br>
+*IEEE Transactions on Biomedical Engineering.* **2026**.<br>
+\*equal contribution
+
 [Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots
 ](https://ieeexplore.ieee.org/document/11414191)
 <br>Myles Cooper, Santiago Canete, <br>**Digby Chappell**, and Conor Walsh.<br>
