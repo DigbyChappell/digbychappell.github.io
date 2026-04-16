@@ -13,7 +13,7 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 ](https://ieeexplore.ieee.org/document/11457357)
 <br>Dabin K. Choe\*, **Digby Chappell**\*, Ashlyn J. Aiello, Christina Lee, Kimberly Ang, Louis N. Awad, and Conor Walsh.<br>
 *IEEE Transactions on Biomedical Engineering.* **2026**.<br>
-\*equal contribution
+\*equal contribution | [Paper](https://ora.ox.ac.uk/objects/uuid:586f5849-a022-4707-b270-e6f1671976c9/files/s8g84mp927)
 
 [Optimization of an Axial Flux Motor-Cycloid Gear Actuator for Sizing Wearable Robots
 ](https://ieeexplore.ieee.org/document/11414191)
