@@ -21,6 +21,10 @@ You can find a full list of my publications on my [Google Scholar](https://schol
 *IEEE/ASME Transactions on Mechatronics.* **2026**.<br>
 [Paper](https://ora.ox.ac.uk/objects/uuid:acb60d1e-2594-4c74-9eef-2ec0a9d447ee/files/rt435gg07j)
 
+Automatic Calibration of Lower Limb Electrode Location and Stimulation Amplitude for Functional Electrical Stimulation
+<br> Margaret Chen, **Digby Chappell**, Dabin K. Choe, Louis N. Awad, Shriya Srinivasan, and Conor Walsh.<br>
+*The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC; to appear).* **2026**.<br>
+
 ### 2025
 [Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands](https://www.nature.com/articles/s41598-025-87048-x)
 <br>**Digby Chappell**, Zeyu Yang, Angus B Clark, Alexandre Berkovic, Colin Laganier, Weston Baxter, Fernando Bello, Petar Kormushev, and Nicolas Rojas.<br>
